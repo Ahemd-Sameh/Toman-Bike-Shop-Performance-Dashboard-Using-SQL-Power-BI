@@ -1,0 +1,44 @@
+Objective:
+The objective of this project was to analyze the sales and performance data of Toman Bike Shop to identify key trends, 
+profitability, and demographic insights. The project involved extracting and transforming data using SQL, followed by 
+creating an interactive and comprehensive dashboard in Power BI to visualize the findings.
+
+Project Steps
+Data Extraction and Preparation (SQL):
+Step 1: Connected to the database containing Toman Bike Shop sales data.
+Step 2: Extracted relevant data tables such as sales transactions, rider demographics, and seasonal revenue.
+Step 3: Cleaned and transformed the data using SQL queries to ensure accuracy and consistency. This included handling 
+missing values, removing duplicates, and aggregating data to the required level of granularity.
+
+Data Analysis (SQL):
+Step 4: Performed detailed data analysis to derive key metrics such as total revenue, total profit, number of riders, and 
+profit margins.
+Step 5: Analyzed hourly, daily, and seasonal sales patterns to identify peak times and days with the highest profitability.
+Step 6: Examined rider demographics to understand the distribution between casual and registered riders.
+
+Dashboard Creation (Power BI):
+Step 7: Imported the cleaned and processed data into Power BI.
+Step 8: Designed the layout of the dashboard, ensuring it is user-friendly and informative.
+Step 9: Created various visualizations, including bar charts, line graphs, pie charts, and tables to represent the data:
+Revenue and Profit Over Time: Line and bar charts showing monthly revenue and profit trends for 2022.
+When are We Making Money?: A table displaying hourly sales data across the week, highlighting the most profitable times 
+and days.
+Revenue By Season: Bar charts showing the seasonal revenue distribution.
+Rider Demographic: A pie chart illustrating the proportion of casual versus registered riders.
+Step 10: Implemented interactive elements such as filters and slicers to allow users to explore the data dynamically, 
+including filters for year selection (2021 and 2022).
+
+Dashboard Review and Testing:
+Step 11: Tested the dashboard for accuracy and performance, ensuring all visualizations correctly reflect the underlying data.
+Step 12: Reviewed the dashboard with stakeholders to gather feedback and made necessary adjustments.
+
+Key Insights
+Identified peak sales hours and days, which can help the shop optimize staffing and inventory.
+Recognized the most and least profitable seasons, aiding in seasonal marketing and sales strategies.
+Gained insights into rider demographics, allowing for targeted marketing efforts towards casual or registered riders.
+Visualized key performance indicators (KPIs) over time, providing a clear overview of the shop’s financial health and trends.
+
+Conclusion
+This project successfully leveraged SQL for data extraction and transformation, followed by the creation of an insightful 
+Power BI dashboard. The resulting dashboard provides Toman Bike Shop with valuable insights into their sales performance, 
+rider demographics, and profitability, enabling data-driven decision-making to enhance business operations.
